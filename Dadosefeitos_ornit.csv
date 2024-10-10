@@ -1,0 +1,167 @@
+Ano;Ninho;Altura;Altitude;Altura total;Espessura;Ambiente;Destino;Territorio;Local;Tipo;Femea;Macho;Casal;Idade_femea;Idade_macho;Expfemea;Expmacho;Esp
+2006;1;0.88;NA;NA;47.5;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;1.5;1.5;NA;NA;47.5
+2006;2;0.75;NA;NA;33.15;Cebolama;Predado;Maezinha;Jundia;cesto;11A;8A;5;2.5;2.5;NA;NA;33.15
+2006;4;0.74;NA;NA;33.15;Cebolama;Alagado;Rosaldo;Jundia;ovo;1;38A;3;1.5;10.5;NA;super;33.15
+2006;5;0.67;NA;NA;33.15;Cebolama;Alagado;Maezinha;Jundia;ovo;11A;8A;5;2.5;2.5;NA;NA;33.15
+2006;7;1.07;NA;NA;28.6;Samambaia;Sucesso;Herbacinho;Jundia;ovo;25;4;12;1.5;1;NA;inexp;28.6
+2006;10;2.2;NA;NA;NA;Samambaia;Predado;K;Jundia;cesto;10;18;9;1.5;1.5;NA;NA;NA
+2006;11;1.05;NA;NA;49.9;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;1.5;1.5;NA;NA;49.9
+2006;12;1.66;NA;NA;26.75;Samambaia;Tombado;Rosinha;Jundia;ovo;53;46;1;1.5;1.5;NA;NA;26.75
+2006;13;1.36;NA;NA;29.3;Samambaia;Predado;K;Jundia;ovo;10;18;9;1.5;1.5;NA;NA;29.3
+2006;21;1.49;NA;NA;17.7;Samambaia;Predado;Maezinha;Jundia;ovo;11A;8A;5;2.5;2.5;NA;NA;17.7
+2006;22;1.65;NA;NA;NA;Samambaia;Predado;Rosaldo;Jundia;ovo;1;38A;3;1.5;10.5;NA;super;NA
+2006;26;1.5;NA;NA;19.1;Samambaia;Sucesso;Rosinha;Jundia;ovo;53;46;1;1.5;1.5;NA;NA;19.1
+2006;29;1.53;NA;NA;31.75;Samambaia;Predado;Maezinha;Jundia;ovo;11A;8A;5;2.5;2.5;NA;NA;31.75
+2006;30;1.05;NA;NA;43;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;1.5;1.5;NA;NA;43
+2006;31;1.55;NA;NA;27.8;Samambaia;Predado;Rosaldo;Jundia;ovo;1;38A;3;1.5;10.5;NA;super;27.8
+2006;32;0.5;NA;NA;NA;Cebolama;Alagado;Herbacinho;Jundia;cesto;25;4;12;1.5;1;NA;inexp;NA
+2006;33;1.21;NA;NA;27.65;Samambaia;Predado;K;Jundia;ovo;10;18;9;1.5;1.5;NA;NA;27.65
+2006;36;NA;NA;NA;23.45;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;1.5;1.5;NA;NA;23.45
+2006;38;0.68;NA;NA;24.25;Cebolama;Alagado;Rosaldo;Jundia;ovo;1;38A;3;1.5;10.5;NA;super;24.25
+2007;41;2;NA;NA;31;Samambaia;Predado;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;31
+2007;44;1.3;NA;NA;19.25;Capim-serra;Sucesso;Riozinho;Jundia;ovo;31;43;11;2.5;2.5;NA;NA;19.25
+2007;48;1.8;NA;NA;34.3;Samambaia;Tombado;Velho;Jundia;ovo;49;45;6;2.5;2.5;NA;NA;34.3
+2007;54;1.38;NA;NA;18.9;Capim-serra;Sucesso;Ponta L;Jundia;ovo;42;5;15;2.5;2.5;NA;NA;18.9
+2007;58;1.64;NA;NA;27.1;Samambaia;Sucesso;Maezinha;Jundia;ovo;11A;8A;5;3.5;3.5;super;NA;27.1
+2007;59;1.29;NA;NA;25.5;Samambaia;Predado;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;25.5
+2007;61;0.95;NA;NA;15.8;Cebolama;Alagado;K;Jundia;ovo;10;18;9;2.5;2.5;NA;NA;15.8
+2007;63;2.15;NA;NA;26.6;Samambaia;Tombado;Magenta;Jundia;cesto;51;47;2;10.5;2.5;super;NA;26.6
+2007;64;1.55;NA;NA;26.75;Samambaia;Sucesso;Magenta;Jundia;ovo;51;47;2;10.5;2.5;super;NA;26.75
+2007;66;1.7;NA;NA;21.05;Samambaia;Predado;Velho;Jundia;ovo;49;45;6;2.5;2.5;NA;NA;21.05
+2007;69;1;NA;NA;NA;Capim-serra;Tombado;Viuva;Jundia;ovo;17;12;16;1.5;2.5;inexp;NA;NA
+2007;70;2.15;NA;NA;31.9;Samambaia;Tombado;K;Jundia;ovo;18;10;9;2.5;2.5;NA;NA;31.9
+2007;72;1.68;NA;NA;27.45;Samambaia;Tombado;Rosaldo;Jundia;cesto;NA;38A;4;NA;11.5;NA ;super;27.45
+2007;73;1.28;NA;NA;NA;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;2.5;2.5;NA;NA;NA
+2007;78;1.1;NA;NA;20.05;Capim-serra;Sucesso;Viuva;Jundia;ovo;17;12;16;1.5;2.5;inexp;NA;20.05
+2007;79;1.34;NA;NA;20.25;Capim-serra;Tombado;Capim-serra;Jundia;ovo;21;9;14;2.5;2.5;NA;NA;20.25
+2007;80;1.15;NA;NA;9.4;Samambaia;Predado;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;9.4
+2007;82;1.56;NA;NA;NA;Samambaia;Sucesso;Velho;Jundia;ovo;49;45;6;2.5;2.5;NA;NA;NA
+2007;87;1;NA;NA;18.05;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;2.5;2.5;NA;NA;18.05
+2007;88;1.02;NA;NA;17.25;Cebolama;Sucesso;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;17.25
+2007;91;1.1;NA;NA;30.3;Samambaia;Sucesso;Riozinho;Jundia;ovo;31;43;11;2.5;2.5;NA;NA;30.3
+2007;92;1.9;NA;NA;NA;Samambaia;Predado;Maezinha;Jundia;ovo;11A;8A;5;3.5;3.5;super;NA;NA
+2007;93;1.24;NA;NA;27.6;Cebolama;Predado;Rosinha;Jundia;ovo;53;46;1;2.5;2.5;NA;NA;27.6
+2007;94;1.2;NA;NA;12.7;Capim-serra;Predado;Viuva;Jundia;cesto;17;12;16;1.5;2.5;inexp;NA;12.7
+2007;95;1.18;NA;NA;34.65;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;2.5;2.5;NA;NA;34.65
+2007;96;1.18;NA;NA;19;Capim-serra;Predado;Ponta L;Jundia;ovo;42;5;15;2.5;2.5;NA;NA;19
+2007;97;1.5;2.81;4,311;29.5;Samambaia;Predado;Magenta;Jundia;ovo;51;47;2;10.5;2.5;super;NA;29.5
+2007;99;1.6;NA;NA;29.2;Samambaia;Predado;Rosinha;Jundia;ovo;53;46;1;2.5;2.5;NA;NA;29.2
+2007;101;1.2;NA;NA;9.85;Capim-serra;Sucesso;Ponta L;Jundia;ovo;42;5;15;2.5;2.5;NA;NA;9.85
+2007;102;1.69;NA;NA;15;Samambaia;Predado;Magenta;Jundia;ovo;51;47;2;10.5;2.5;super;NA;15
+2007;103;1.49;NA;NA;8.5;Samambaia;Tombado;Rosinha;Jundia;ovo;53;46;1;2.5;2.5;NA;NA;8.5
+2007;105;0.84;NA;NA;28;Cebolama;Alagado;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;28
+2007;109;0.78;NA;NA;11.2;Cebolama;Alagado;Rosinha;Jundia;ovo;53;46;1;2.5;2.5;NA;NA;11.2
+2007;110;1.7;NA;NA;NA;Samambaia;Predado;Rosaldo;Jundia;ovo;NA;38A;4;NA;11.5;NA ;super;NA
+2008;111;1.3;2.66;3.96;7.5;Capim-serra;Sucesso;Azulzinho;Jundia;ovo;16;44;7;3.5;3;NA;exp;7.5
+2008;114;0.52;2.57;3,086;7.5;Cebolama;Alagado;Acelerado;Jundia;cesto;74;13;10;2.5;3;NA;exp;7.5
+2008;115;1.51;2.78;4,293;NA;Samambaia;Tombado;Magenta;Jundia;cesto;51;47;2;11.5;3.5;super;NA;NA
+2008;116;1.98;NA;NA;45;Samambaia;Tombado;Rosinha;Jundia;cesto;53;46;1;3.5;3.5;NA;NA;45
+2008;120;0.6;2.56;3.163;-;Cebolama;Alagado;Acelerado;Jundia;ovo;74;13;10;2.5;3;NA;exp;-
+2008;122;1.1;NA;NA;27.5;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;3.5;3.5;NA;NA;27.5
+2008;123;1.35;NA;NA;27.5;Capim-serra;Predado;Capim-serra;Jundia;ovo;21;9;14;3.5;3.5;NA;NA;27.5
+2008;124;NA;2.81;NA;NA;Cebolama;Predado;Magenta;Jundia;ovo;51;47;2;11.5;3.5;super;NA;NA
+2008;125;0.95;NA;NA;NA;Cebolama;Tombado;Rosinha;Jundia;ovo;53;46;1;3.5;3.5;NA;NA;NA
+2008;128;NA;2.48;NA;NA;Cebolama;Predado;Velho;Jundia;ovo;49;38A;19;3.5;12.5;NA;super;NA
+2008;131;NA;2.68;NA;NA;Capim-serra;Predado;Azulzinho;Jundia;ovo;16;44;7;3.5;3;NA;exp;NA
+2008;132;0.85;2.53;3.38;27.5;Cebolama;Tombado;Rosinha;Jundia;ovo;53;46;1;3.5;3.5;NA;NA;27.5
+2008;133;0.84;2.6;3,436;NA;Cebolama;Tombado;Magenta;Jundia;ovo;51;47;2;11.5;3.5;super;NA;NA
+2009;136;1.15;2.58;3,727;37.5;Capim-serra;Tombado;Azulzinho;Jundia;cesto;16;44;7;4.5;4;super;exp;37.5
+2009;137;0.82;2.34;3,163;22.5;Cebolama;Alagado;Rosinha;Jundia;ovo;53;46;1;4.5;4.5;super;super;22.5
+2009;139;1.12;2.64;3.76;12.5;Capim-serra;Sucesso;Ponta L;Jundia;ovo;42;5;15;4.5;4.5;super;super;12.5
+2009;143;0.76;2.38;3.14;30;Cebolama;Alagado;Rosaldo;Jundia;ovo;50;Fi8;20;4.5;2;super;inexp;30
+2009;144;1.7;2.58;4,282;NA;Samambaia;Tombado;Velho;Jundia;ovo;49;38A;19;4.5;13.5;super;super;NA
+2009;146;1.95;2.44;4,389;NA;Samambaia;Predado;Velho;Jundia;cesto;49;38A;19;4.5;13.5;super;super;NA
+2009;147;0.89;2.56;3,451;7.5;Capim-serra;Alagado;Riozinho;Jundia;ovo;31;43;11;4.5;4.5;super;super;7.5
+2009;150;1.35;2.62;3,969;35;Capim-serra;Sucesso;Azulzinho;Jundia;ovo;16;44;7;4.5;4;super;exp;35
+2009;151;1.72;2.59;4,305;22.5;Samambaia;Predado;Rosaldo;Jundia;ovo;50;Fi8;20;4.5;2;super;inexp;22.5
+2009;152;0.95;2.56;3,511;20;Capim-serra;Sucesso;Riozinho;Jundia;ovo ;31;43;11;4.5;4.5;super;super;20
+2009;153;1.43;2.44;3,872;NA;Samambaia;Tombado;Rosinha;Jundia;ovo ;53;46;1;4.5;4.5;super;super;NA
+2009;154;0.9;2.5;3,404;30;Cebolama;Tombado;Rosaldo;Jundia;ovo ;50;Fi8;20;4.5;2;super;inexp;30
+2009;158;1.73;2.44;4,169;22.5;Samambaia;Sucesso;Velho;Jundia;ovo;49;38A;19;4.5;13.5;super;super;22.5
+2009;162;1.08;2.53;3,611;17.5;Cebolama;Predado;Rosinha;Jundia;ovo;53;46;1;4.5;4.5;super;super;17.5
+2009;163;0.67;2.43;3,104;15;Cebolama;Alagado;Rosaldo;Jundia;ovo;50;Fi8;20;4.5;2;super;inexp;15
+2009;166;1.25;2.45;3,697;25;Cebolama;Predado;Rosinha;Jundia;ovo;53;46;1;4.5;4.5;super;super;25
+2009;170;1.26;2.66;3,918;35;Capim-serra;Tombado;Ponta L;Jundia;ovo;42;5;15;4.5;4.5;super;super;35
+2009;172;0.93;2.36;3,291;30;Cebolama;Tombado;Rosaldo;Jundia;cesto;50;Fi8;20;4.5;2;super;inexp;30
+2013;211;1.32;NA;NA;NA;Capim-serra;Sucesso;Azulzinho;Jundia;ovo;177;138;38;4;5;exp;super;NA
+2013;213;1.6;2.34;3,938;NA;Samambaia;Sucesso;Velho;Jundia;ovo;183;268;42;4;2;exp;NA;NA
+2013;222;1.13;2.61;3,738;NA;Cebolama;Predado;Azulzinho;Jundia;ovo;177;138;38;4;5;exp;super;NA
+2013;230;1.67;2.44;4,109;NA;Samambaia;Sucesso;Velho;Jundia;ovo;183;268;42;4;2;exp;NA;NA
+2014;233;1.14;2.53;3.67;NA;Capim-serra;Sucesso;Azulzinho;Jundia;ovo;177;138;38;5;6;super;super;NA
+2014;251;1.37;2.58;3,947;NA;Capim-serra;Tombado;Azulzinho;Jundia;ovo;177;138;38;5;6;super;super;NA
+2015;265;0.61;2.67;3,283;NA;Cebolama;Alagado;Acelerado;Jundia;ovo;305;193;65;2;4.5;NA;super;NA
+2015;275;1.45;2.59;4,035;NA;Samambaia;Sucesso;Acelerado;Jundia;ovo;305;193;65;2;4.5;NA;super;NA
+2018;330;1.23;2.61;3,838;NA;Capim-serra;Predado;Azulzinho;Jundia;ovo;357;356;88;2.5;1.5;NA;NA;NA
+2018;339;1.21;2.52;3,726;NA;Capim-serra;Sucesso;Capim-serra;Jundia;ovo;21;137;31;13.5;10;super;super;NA
+2018;344;1.32;2.58;3,904;NA;Samambaia;Tombado;Azulzinho;Jundia;ovo;357;356;88;2.5;1.5;NA;NA;NA
+2018;356;1.16;2.52;3,676;NA;Capim-serra;Tombado;Capim-serra;Jundia;cesto;21;137;31;13.5;10;super;super;NA
+2019;364;NA;2.45;NA;NA;Capim-serra;Predado;Capim-serra;Jundia;cesto;21;137;31;14.5;11;super;super;NA
+2019;373;NA;2.52;NA;NA;Capim-serra;Sucesso;Capim-serra;Jundia;ovo;21;137;31;14.5;11;super;super;NA
+2019;379;0.67;2.5;3,172;NA;Cebolama;Alagado;Maezinha;Jundia;ovo;353;376;98;3.5;0.5;NA;NA;NA
+2019;380;0.99;2.55;3,535;NA;Cebolama;Predado;Maezinha;Jundia;ovo;353;376;98;3.5;0.5;NA;NA;NA
+2021;415;1.25;2.55;3,802;NA;Capim-serra;Sucesso;Mao de borracha;Jundia;ovo;339;354;95;6.5;5.5;super;super;NA
+2021;440;0.89;2.52;3,405;NA;Capim-serra;Sucesso;Mao de borracha;Jundia;ovo;339;354;95;6.5;5.5;super;super;NA
+2013;102F;1.12;2.33;3,453;NA;Samambaia;Predado;Primeirinho;Folha;ovo;135;200;28F;5.5;3.5;super;NA;NA
+2013;119F;1.84;2.42;2,258;NA;Samambaia;Sucesso;Primeirinho;Folha;ovo;135;200;28F;5.5;3.5;super;NA;NA
+2009;11C;0.72;2.51;3,232;27.5;Uvira;Alagado;Colorado;Conti;ovo;117;122;6C;2.5;2;NA;inexp;27.5
+2015;124C;0.77;2.47;3.24;NA;Cebolama;Alagado;Vermelhinha;Conti;ovo;321;303;36C;1.5;2.5;NA;inexp;NA
+2015;130C;0.72;2.64;3,357;NA;Uvira;Alagado;Vermelhinha;Conti;ovo;321;303;36C;1.5;2.5;NA;inexp;NA
+2015;133F;0.92;2.54;3,458;NA;Manguezal;Predado;Ypsolone;Folha;ovo;323;307;49F;2;2.5;NA;inexp;NA
+2015;134F;0.65;2.52;3.17;NA;Manguezal;Alagado;Ypsolone;Folha;ovo;323;307;49F;2;2.5;NA;inexp;NA
+2009;14C;1.15;2.53;3,684;30;Capim-serra;Predado;Asinha;Conti;ovo;94;171;10C;3;1;NA;NA;30
+2015;152F;NA;2.47;NA;NA;Manguezal;Predado;Manguito;Folha;ovo;204;Fi35;32F;5;5;super;super;NA
+2009;15C;0.9;2.58;3,479;37.5;Cebolama;Predado;Barbantinho;Conti;ovo;170;119;11C;1;2;NA;inexp;37.5
+2015;160F;0.76;2.45;3,214;NA;Manguezal;Alagado;Manguito;Folha;ovo;204;Fi35;32F;5;5;super;super;NA
+2016;165F;0.67;2.52;3,193;NA;Typha;Alagado;Salsicha;Folha;ovo;142;Fi69;59F;8.5;8.5;super;super;NA
+2016;174F;0.97;2.52;3,493;NA;Manguezal;Alagado;Salsicha;Folha;ovo;142;Fi69;59F;8.5;8.5;super;super;NA
+2009;17F;1.02;2.49;3,506;12.5;Samambaia;Predado;Dezinhos;Folha;ovo;163;149;17F;1;1.5;inexp;NA;12.5
+2014;183F;0.77;2.57;3,341;NA;Manguezal;Sucesso;Salsicha;Folha;ovo;142;141;8F;6.5;6.5;super;super;NA
+2021;189C;1.8;2.49;4,293;NA;Capim-serra;Sucesso;Asinha;Conti;ovo;328;387;67C;7.5;1.5;super;NA;NA
+2021;192C;1.05;2.7;3,745;NA;Capim-serra;Sucesso;Asinha;Conti;ovo;328;387;67C;7.5;1.5;super;NA;NA
+2014;197F;0.58;2.52;3,097;NA;Typha;Alagado;Brasileiros;Folha;ovo;205;Fi69;40F;4;6.5;NA;exp;NA
+2014;198F;0.82;2.56;3,382;NA;Manguezal;Predado;Brasileiros;Folha;ovo;205;Fi69;40F;4;6.5;NA;exp;NA
+2014;199F;0.79;2.55;3,344;NA;Typha;Sucesso;Salsicha;Folha;ovo;142;141;8F;6.5;6.5;super;super;NA
+2009;20F;1.3;2.55;3,847;22.5;Samambaia;Sucesso;Salsicha;Folha;ovo;142;141;8F;1.5;1.5;NA;NA;22.5
+2009;21C;1.28;2.51;3,792;17.5;Cebolama;Predado;Colorado;Conti;ovo;117;122;6C;2.5;2;NA;inexp;17.5
+2009;21F;0.66;2.48;3,138;22.5;Manguezal;Alagado;Manguito;Folha;ovo;133;134;4F;1.5;1.5;NA;NA;22.5
+2009;22F;1.1;2.12;3,218;20;Manguezal;Sucesso;Desrrabados;Folha;ovo;144;143;6F;1.5;1.5;NA;NA;20
+2018;235F;1.01;2.45;3,458;NA;Manguezal;Predado;Desrrabados;Folha;ovo;324;Fi70;58F;4;7.7;exp;super;NA
+2018;236F;1.18;2.39;3,569;NA;Manguezal;Tombado;Desrrabados;Folha;ovo;324;Fi70;58F;4;7.7;exp;super;NA
+2009;23C;1.71;2.53;4,235;12.5;Capim-serra;Predado;Asinha;Conti;ovo;94;171;10C;3;1;NA;NA;12.5
+2009;23F;0.93;2.55;3.48;25;Uvira;Sucesso;Hibisquito;Folha;ovo;156;155;12F;1;1.5;NA;NA;25
+2009;25F;1.15;2.53;3.68;NA;Samambaia;Predado;Dezinhos;Folha;ovo;163;149;17F;1;1.5;inexp;NA;NA
+2009;26F;0.97;2.43;3,398;NA;Cebolama;Predado;Manguito;Folha;ovo;133;134;4F;1.5;1.5;NA;NA;NA
+2009;28C;1.41;2.53;3,935;NA;Capim-serra;Tombado;Asinha;Conti;ovo;94;171;10C;3;1;NA;NA;NA
+2009;28F;1.45;2.24;3,687;NA;Manguezal;Predado;Desrrabados;Folha;ovo;144;143;6F;1.5;1.5;NA;NA;NA
+2009;29C;0.38;2.65;3,033;20;Samambaia;Alagado;Amarelinha;Conti;cesto;96;95;3C;3;3;NA;NA;20
+2009;29F;1.28;2.49;3,767;17.5;Manguezal;Sucesso;Ypsolone;Folha;ovo;146;145;7F;1.5;1.5;NA;NA;17.5
+2009;30C;2.3;2.55;4,848;30;Samambaia;Predado;Barbantinho;Conti;ovo;170;119;11C;1;2;NA;inexp;30
+2009;31C;0.81;2.62;3,426;12.5;Cebolama;Alagado;Amarelinha;Conti;ovo;96;95;3C;3;3;NA;NA;12.5
+2009;34C;1.07;2.56;3,631;10;Cebolama;Tombado;Barbantinho;Conti;ovo;170;119;11C;1;2;NA;inexp;10
+2009;35C;1.01;2.53;3,535;17.5;Capim-serra;Tombado;Asinha;Conti;ovo;94;171;10C;3;1;NA;NA;17.5
+2010;39F;NA;2.47;NA;NA;Manguezal;Sucesso;Salsicha;Folha;ovo;142;141;8F;2.5;2.5;NA;NA;NA
+2010;40C;0.67;1.99;2,661;25;Cebolama;Alagado;Barbantinho;Conti;ovo;109;110;12C;1.5;3;NA;NA;25
+2010;40F;0.79;2.47;3,259;10;Manguezal;Alagado;Salsicha;Folha;ovo;142;141;8F;2.5;2.5;NA;NA;10
+2010;44C;1.21;2.45;3,683;15;Cebolama;Alagado;Barbantinho;Conti;ovo;170;119;11C;1.5;3;NA;inexp;15
+2010;47C;0.74;NA;NA;NA;Cebolama;Sucesso;Listrao;Conti;ovo;109;110;12C;1.5;3;NA;NA;NA
+2009;4F;0.74;2.47;3,209;25;Manguezal;Alagado;Ypsolone;Folha;ovo;146;145;7F;1.5;1.5;NA;NA;25
+2010;52C;0.88;2.58;3,459;NA;Cebolama;Alagado;Barbantinho;Conti;ovo;170;119;11C;1.5;3;NA;inexp;NA
+2009;5F;0.84;2.57;3,405;20;Typha;Sucesso;Salsicha;Folha;ovo;142;141;8F;1.5;1.5;NA;NA;20
+2011;71F;NA;NA;NA;NA;NA;Alagado;Desrrabados;Folha;ovo;164;143;21F;2.5;3.5;super;super;NA
+2011;72F;0.95;NA;NA;NA;Manguezal;Sucesso;Desrrabados;Folha;ovo;164;143;21F;2.5;3.5;super;super;NA
+2009;8F;1;2.53;3,532;30;Manguezal;Predado;Hibisquito;Folha;ovo;156;155;12F;1;1.5;NA;NA;30
+2009;sn;NA;NA;NA;NA;NA;Alagado;Velho;Jundia;ovo;49;38A;19;4.5;13.5;NA;super;NA
+2022;457;1.12;2.36;2,483;NA;Pirizal;Predado;David;Jundia;ovo;Fi79;374;109;10;2.5;super;NA;NA
+2022;469;1.35;2.53;3,881;NA;Capim-serra;Predado;David;Jundia;ovo;Fi79;374;109;10;2.5;super;NA;NA
+2022;461;1.74;2.55;4.28;NA;Samambaia;Predado;Maezinha;Jundia;ovo;373;414;108;2.5;0.5;NA;inexp;NA
+2022;474;1.77;2.5;4.27;NA;Samambaia;Predado;Maezinha;Jundia;ovo;373;414;108;2.5;0.5;NA;inexp;NA
+2022;460;1.39;2.52;3,906;NA;Capim-serra;Tombado;Capim-serra;Jundia;cesto;371;372;94;4.5;4.5;super;super;NA
+2022;468;1.67;2.53;4,197;NA;Capim-serra;Predado;Capim-serra;Jundia;ovo;371;372;94;4.5;4.5;super;super;NA
+2022;462;0.79;2.53;3,318;NA;Capim-serra;Alagado;Azulzinho;Jundia;ovo;357;Fi55;101;6.5;12;super;super;NA
+2022;473;1.21;2.53;3,738;NA;Capim-serra;Predado;Azulzinho;Jundia;ovo;357;Fi55;101;6.5;12;super;super;NA
+2022;204C;1.97;2.58;4,552;NA;Samambaia;Predado;Colorado;Conti;ovo;402;322;90C;2.5;6.5;NA;super;NA
+2022;209C;1;2.55;3,553;NA;Uvira;Predado;Colorado;Conti;ovo;402;322;90C;2.5;6.5;NA;super;NA
+2022;286F;0.71;2.5;3,205;NA;Typha;Predado;Jamaicano;Folha;ovo;323;403;72F;9;4;super;NA;NA
+2022;290F;1.38;2.47;3,852;NA;Manguezal;Sucesso;Jamaicano;Folha;ovo;323;403;72F;9;4;super;NA;NA
+2022;291F;0.77;2.55;3,324;NA;Manguezal;Predado;Ypsolone;Folha;ovo;407;Fi69;86F;3.5;11.5;NA;super;NA
+2022;293F;1.06;2.61;3,666;NA;Samambaia;Predado;Ypsolone;Folha;ovo;407;Fi69;86F;3.5;11.5;NA;super;NA

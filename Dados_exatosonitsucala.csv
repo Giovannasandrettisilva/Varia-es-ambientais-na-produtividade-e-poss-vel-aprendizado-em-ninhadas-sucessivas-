@@ -1,0 +1,42 @@
+Ano;N1;N2;Dest_N1;Dest_N2;Diferenca_altura;Diferenca_altitude;Diferenca_altura_total;Diferenca_espessura;Mudou_amb;Distancia;Territorio;Ambiente_N1;Ambiente_N2;Numero_renest;Mudou Amb;Local;Tem capim;Femea;Macho;Casal;Expfemea;Expmacho;Idade_femea;Idade_macho
+2006;4;22;Alagado;Predado;0.91;NA;NA;NA;1;NA;Rosaldo;cebolama;samambaia;1;1;Jundia;0;1;38A;3;NA;super;1.5;10.5
+2006;5;21;Alagado;Predado;0.82;NA;NA;-15;1;34.38;Maezinha;cebolama;samambaia;2;1;Jundia;0;11A;8A;5;NA;NA;2.5;2.5
+2006;7;32;Sucesso;Alagado;-0.57;NA;NA;NA;1;32.15;Herbacinho;samambaia;cebolama;1;1;Jundia;1;25;4;12;NA;inexp;1.5;1
+2007;64;97;Sucesso;Predado;-0.05;NA;NA;3;0;25.87;Magenta;samambaia;samambaia;2;0;Jundia;0;51;47;2;super;NA;10.5;2.5
+2007;88;105;Sucesso;Alagado;-0.18;NA;NA;11;0;9.05;Rosaldo;cebolama;cebolama;5;0;Jundia;0;NA;38A;4;NA;super;NA;11.5
+2007;105;110;Alagado;Predado;0.86;NA;NA;NA;1;69.17;Rosaldo;cebolama;samambaia;6;1;Jundia;0;NA;38A;4;NA;super;NA;11.5
+2007;58;92;Sucesso;Predado;0.26;NA;NA;NA;0;21.4;Maezinha;samambaia;samambaia;1;0;Jundia;0;11A;8A;5;super;NA;3.5;3.5
+2007;61;70;Alagado;Tombado;1.2;NA;NA;16;1;29.13;K;cebolama;samambaia;1;1;Jundia;0;18;10;9;NA;NA;2.5;2.5
+2007;44;91;Sucesso;Sucesso;-0.2;NA;NA;11.05;1;21.41;Riozinho;capim-serra;samambaia;1;1;Jundia;1;31;43;11;NA;NA;2.5;2.5
+2007;54;96;Sucesso;Predado;-0.2;NA;NA;0;0;20.93;Ponta L;capim-serra;capim-serra;1;0;Jundia;1;42;5;15;NA;NA;2.5;2.5
+2007;78;94;Sucesso;Predado;0.1;NA;NA;-7;0;23.18;Viuva;capim-serra;capim-serra;2;0;Jundia;1;17;12;16;inexp;NA;1.5;2.5
+2008;111;131;Sucesso;Predado;NA;0.022;NA;NA;0;30.94;Azulzinho;capim-serra;capim-serra;1;0;Jundia;1;16;44;7;NA;exp;3.5;3
+2008;114;120;Alagado;Alagado;0.08;-0.003;0.08;NA;0;52.61;Acelerado;cebolama;cebolama;1;0;Jundia;0;74;13;10;NA;exp;2.5;3
+2009;137;153;Alagado;Tombado;0.61;0.099;0.71;NA;1;16.37;Rosinha;cebolama;samambaia;1;1;Jundia;1;53;46;1;super;super;4.5;4.5
+2009;147;152;Alagado;Sucesso;0.06;0;0.06;12.5;0;13.96;Riozinho;capim-serra;capim-serra;1;0;Jundia;1;31;43;11;super;super;4.5;4.5
+2009;139;170;Sucesso;Tombado;0.14;0.018;0;22.5;0;15.49;Ponta L;capim-serra;capim-serra;1;0;Jundia;1;42;5;15;super;super;4.5;4.5
+2009;143;151;Alagado;Predado;0.96;0.205;1.17;-7.5;1;69.4;Rosaldo;cebolama;samambaia;1;1;Jundia;0;50;Fi8;20;super;inexp;4.5;2
+2009;163;172;Alagado;Tombado;0.26;-0.073;0.19;15;0;116.26;Rosaldo;cebolama;cebolama;5;0;Jundia;0;50;Fi8;20;super;inexp;4.5;2
+2009;29C;31C;Alagado;Alagado;0.43;-0.037;0.39;-7.5;1;74.19;Amarelinha;samambaia;cebolama;2;1;Conti ;0;96;95;3C;NA;NA;3;3
+2009;11C;21C;Alagado;Predado;0.56;0;0.56;-10;1;25.87;Colorado;uvira;cebolama;1;1;Conti ;0;117;122;6C;NA;inexp;2.5;2
+2009;5F;20F;Sucesso;Sucesso;0.46;-0.018;0.44;3;1;11.28;Salsicha;typha;samambaia;1;1;Folha ;0;142;141;8F;NA;NA;1.5;1.5
+2009;22F;28F;Sucesso;Predado;0.35;0.119;0.47;NA;0;46.91;Desrrabados;manguezal;manguezal;1;0;Folha ;0;144;143;6F;NA;NA;1.5;1.5
+2009;4F;29F;Alagado;Sucesso;0.54;0.018;0.56;-8;0;40.9;Ypsolone;manguezal;manguezal;1;0;Folha ;0;146;145;7F;NA;NA;1.5;1.5
+2009;21F;26F;Alagado;Predado;0.31;-0.05;0.26;NA;1;67.24;Manguito;manguezal;cebolama;1;1;Folha ;0;133;134;4F;NA;NA;1.5;1.5
+2010;39F;40F;Sucesso;Alagado;NA;0;NA;NA;0;5.76;Salsicha;manguezal;manguezal;1;0;Folha ;0;142;141;8F;NA;NA;2.5;2.5
+2010;44C;52C;Alagado;Alagado;-0.33;0.106;-0.22;NA;0;77.96;Barbantinho;cebolama;cebolama;1;0;Conti ;1;170;119;11C;NA;inexp;1.5;3
+2010;40C;47C;Alagado;Sucesso;0.07;NA;NA;NA;0;NA;Listrao;cebolama;cebolama;1;0;Conti ;0;109;110;12C;NA;NA;1.5;3
+2011;71F;72F;Alagado;Sucesso;NA;NA;NA;NA;NA;39.51;Desrrabados;NA;manguezal;1;NA;Folha ;0;164;143;21F;super;super;2.5;3.5
+2013;211;222;Sucesso;Predado;-0.19;NA;NA;NA;1;11.29;Azulzinho;capim-serra;cebolama;1;1;Jundia;1;177;138;38;exp;super;4;5
+2013;213;230;Sucesso;Sucesso;0.07;0.101;0;NA;0;12.5;Velho;samambaia;samambaia;1;0;Jundia;1;183;268;42;exp;NA;4;2
+2014;233;251;Sucesso;Tombado;0.23;0.047;0;NA;0;18.97;Azulzinho;capim-serra;capim-serra;1;0;Jundia;1;177;138;38;super;super;5;6
+2014;183F;199F;Sucesso;Sucesso;0.02;-0.017;0;NA;1;6.44;Salsicha;manguezal;typha;1;1;Folha ;0;142;141;8F;super;super;6.5;6.5
+2014;197F;198F;Alagado;Predado;0.24;0.045;0.29;NA;1;52.3;Brasileiros;typha;manguezal;1;1;Folha ;0;205;Fi69;40F;NA;exp;4;6.5
+2015;124C;130C;Alagado;Alagado;-0.05;0.167;0.12;NA;1;43.81;Vermelhinha;cebolama;uvira;1;1;Conti ;0;321;303;36C;NA;inexp;1.5;2.5
+2015;265;275;Alagado;Sucesso;0.84;-0.088;-0.09;NA;1;13.14;Acelerado;cebolama;samambaia;1;1;Jundia;0;305;193;65;NA;super;2;4.5
+2016;165F;174F;Alagado;Alagado;0.3;0;0.3;NA;1;8.91;Salsicha;typha;manguezal;1;1;Folha ;0;142;Fi69;59F;super;super;8.5;8.5
+2018;339;356;Sucesso;Tombado;-0.05;0;-0.05;NA;0;3.4;Capim-serra;capim-serra;capim-serra;1;0;Jundia;1;21;137;31;super;super;13.5;10
+2019;379;380;Alagado;Predado;0.32;0.043;0.36;NA;0;15.24;Maezinha;cebolama;cebolama;1;0;Jundia;0;353;376;98;NA;NA;3.5;0.5
+2021;415;440;Sucesso;Sucesso;-0.25;0.111;-0.14;NA;0;33.24;Mao de borracha;capim-serra;capim-serra;1;0;Jundia;1;339;354;95;super;super;6.5;5.5
+2021;189C;192C;Sucesso;Sucesso;-0.75;0.202;-0.55;NA;0;31.71;Asinha;capim-serra;capim-serra;1;0;Conti ;1;328;387;67C;super;NA;7.5;1.5
+2022;462;473;Alagado;Predado;0.42;0;0.42;NA;0;5.83;Azulzinho;capim-serra;capim-serra;2;0;Jundia;1;357;Fi55;101;super;super;6.5;12
